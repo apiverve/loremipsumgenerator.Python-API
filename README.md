@@ -67,9 +67,9 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "words": 108,
-    "sentences": 9,
-    "text": "Lorem ipsum dolor sit amet ex deserunt nisi dolore mollit cillum duis elit adipisicing culpa deserunt elit. Adipisicing dolor minim minim elit in nostrud tempor officia officia non Lorem incididunt quis. Tempor eu excepteur pariatur consequat aliqua ullamco magna incididunt reprehenderit adipisicing irure. Laborum velit est consequat do irure veniam enim laboris occaecat cillum. Reprehenderit tempor adipisicing nostrud enim ex irure officia cupidatat aute velit esse anim. Id aute cillum ullamco adipisicing ipsum dolor pariatur. Et reprehenderit enim id irure eu tempor eiusmod laboris aliqua mollit exercitation ea. Aliqua ut amet Lorem aute. Occaecat laborum veniam eu deserunt ut non ea magna eu laborum consectetur duis ullamco dolor."
+    "words": 62,
+    "sentences": 5,
+    "text": "Lorem ipsum dolor sit amet nulla sint eiusmod ut nulla et reprehenderit quis laborum do. Duis irure consequat ut consequat nisi non velit dolore culpa nulla. Sunt deserunt dolore culpa ex qui non laboris cillum sint labore non amet aliqua reprehenderit. Nisi culpa ea magna ea ex id. Consectetur eiusmod voluptate aliquip eu dolor anim consequat amet non deserunt enim velit incididunt."
   },
   "code": 200
 }
@@ -97,7 +97,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
